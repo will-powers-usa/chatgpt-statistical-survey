@@ -1,0 +1,540 @@
+{
+ "industry": {
+  "Business/Finance": {
+   "accuracy": 0.36125,
+   "std_error": 0.0169940149
+  },
+  "Dramatic Arts": {
+   "accuracy": 0.3871765601,
+   "std_error": 0.0047511659
+  },
+  "Government/Politics": {
+   "accuracy": 0.3407894737,
+   "std_error": 0.0085978488
+  },
+  "Literary Arts": {
+   "accuracy": 0.393954918,
+   "std_error": 0.0110623423
+  },
+  "Musical Arts": {
+   "accuracy": 0.3829431438,
+   "std_error": 0.0070287735
+  },
+  "News/Journalism": {
+   "accuracy": 0.2976190476,
+   "std_error": 0.0249801085
+  },
+  "Religion": {
+   "accuracy": 0.2291666667,
+   "std_error": 0.0431215303
+  },
+  "Science/Technology/Medicince": {
+   "accuracy": 0.453125,
+   "std_error": 0.0360193908
+  },
+  "Social Media": {
+   "accuracy": 0.25,
+   "std_error": 0.0777713771
+  },
+  "Sports": {
+   "accuracy": 0.3833333333,
+   "std_error": 0.0118655584
+  },
+  "Visual Arts": {
+   "accuracy": 0.3821428571,
+   "std_error": 0.020551854
+  }
+ },
+ "role": {
+  "celebrity": {
+   "accuracy": 0.3638258839,
+   "std_error": 0.0043934642
+  },
+  "relative": {
+   "accuracy": 0.3925950634,
+   "std_error": 0.0044594764
+  }
+ },
+ "industry.role": {
+  "Business/Finance celebrity": {
+   "accuracy": 0.47,
+   "std_error": 0.0249862117
+  },
+  "Business/Finance relative": {
+   "accuracy": 0.2525,
+   "std_error": 0.0217495283
+  },
+  "Dramatic Arts celebrity": {
+   "accuracy": 0.3323820396,
+   "std_error": 0.0064982501
+  },
+  "Dramatic Arts relative": {
+   "accuracy": 0.4419710807,
+   "std_error": 0.0068507626
+  },
+  "Government/Politics celebrity": {
+   "accuracy": 0.3782894737,
+   "std_error": 0.0124430645
+  },
+  "Government/Politics relative": {
+   "accuracy": 0.3032894737,
+   "std_error": 0.0117944031
+  },
+  "Literary Arts celebrity": {
+   "accuracy": 0.3504098361,
+   "std_error": 0.0152793738
+  },
+  "Literary Arts relative": {
+   "accuracy": 0.4375,
+   "std_error": 0.0158872227
+  },
+  "Musical Arts celebrity": {
+   "accuracy": 0.4051003344,
+   "std_error": 0.0100395298
+  },
+  "Musical Arts relative": {
+   "accuracy": 0.3607859532,
+   "std_error": 0.0098210558
+  },
+  "News/Journalism celebrity": {
+   "accuracy": 0.3630952381,
+   "std_error": 0.0372125378
+  },
+  "News/Journalism relative": {
+   "accuracy": 0.2321428571,
+   "std_error": 0.0326707904
+  },
+  "Religion celebrity": {
+   "accuracy": 0.125,
+   "std_error": 0.0482403116
+  },
+  "Religion relative": {
+   "accuracy": 0.3333333333,
+   "std_error": 0.0687614164
+  },
+  "Science/Technology/Medicince celebrity": {
+   "accuracy": 0.3854166667,
+   "std_error": 0.0499337097
+  },
+  "Science/Technology/Medicince relative": {
+   "accuracy": 0.5208333333,
+   "std_error": 0.0512543679
+  },
+  "Social Media celebrity": {
+   "accuracy": 0.4375,
+   "std_error": 0.1280868846
+  },
+  "Social Media relative": {
+   "accuracy": 0.0625,
+   "std_error": 0.0625
+  },
+  "Sports celebrity": {
+   "accuracy": 0.375,
+   "std_error": 0.0167137793
+  },
+  "Sports relative": {
+   "accuracy": 0.3916666667,
+   "std_error": 0.0168518713
+  },
+  "Visual Arts celebrity": {
+   "accuracy": 0.4142857143,
+   "std_error": 0.0294910874
+  },
+  "Visual Arts relative": {
+   "accuracy": 0.35,
+   "std_error": 0.0285554231
+  }
+ },
+ "gender": {
+  "agender": {
+   "accuracy": 0.75,
+   "std_error": 0.1636634177
+  },
+  "female": {
+   "accuracy": 0.3286688617,
+   "std_error": 0.005094031
+  },
+  "genderfluid": {
+   "accuracy": 0.875,
+   "std_error": 0.125
+  },
+  "male": {
+   "accuracy": 0.4047927461,
+   "std_error": 0.0039503983
+  },
+  "non-binary": {
+   "accuracy": 1.0,
+   "std_error": 0.0
+  },
+  "trans man": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "trans woman": {
+   "accuracy": 0.625,
+   "std_error": 0.1829812637
+  }
+ },
+ "gender.role": {
+  "agender relative": {
+   "accuracy": 0.75,
+   "std_error": 0.1636634177
+  },
+  "female celebrity": {
+   "accuracy": 0.2483421751,
+   "std_error": 0.007868495
+  },
+  "female relative": {
+   "accuracy": 0.3728134111,
+   "std_error": 0.0065279477
+  },
+  "genderfluid celebrity": {
+   "accuracy": 0.875,
+   "std_error": 0.125
+  },
+  "male celebrity": {
+   "accuracy": 0.4016741071,
+   "std_error": 0.0051793594
+  },
+  "male relative": {
+   "accuracy": 0.4091049383,
+   "std_error": 0.0061082746
+  },
+  "non-binary celebrity": {
+   "accuracy": 1.0,
+   "std_error": 0.0
+  },
+  "trans man relative": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "trans woman relative": {
+   "accuracy": 0.625,
+   "std_error": 0.1829812637
+  }
+ },
+ "other_gender": {
+  "agender": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "female": {
+   "accuracy": 0.4125117592,
+   "std_error": 0.0053386527
+  },
+  "genderfluid": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "male": {
+   "accuracy": 0.3598445596,
+   "std_error": 0.0038626967
+  },
+  "non-binary": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "trans man": {
+   "accuracy": 0.5,
+   "std_error": 0.1889822365
+  },
+  "trans woman": {
+   "accuracy": 0.375,
+   "std_error": 0.1829812637
+  }
+ },
+ "other_gender.role": {
+  "agender celebrity": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "female celebrity": {
+   "accuracy": 0.3844752187,
+   "std_error": 0.0065673395
+  },
+  "female relative": {
+   "accuracy": 0.4635278515,
+   "std_error": 0.0090817146
+  },
+  "genderfluid relative": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "male celebrity": {
+   "accuracy": 0.3466049383,
+   "std_error": 0.0059122298
+  },
+  "male relative": {
+   "accuracy": 0.3694196429,
+   "std_error": 0.0050991812
+  },
+  "non-binary relative": {
+   "accuracy": 0.0,
+   "std_error": 0.0
+  },
+  "trans man celebrity": {
+   "accuracy": 0.5,
+   "std_error": 0.1889822365
+  },
+  "trans woman celebrity": {
+   "accuracy": 0.375,
+   "std_error": 0.1829812637
+  }
+ },
+ "direction": {
+  "inRelation": {
+   "accuracy": 0.3850066711,
+   "std_error": 0.0044436682
+  },
+  "outRelation": {
+   "accuracy": 0.3714142762,
+   "std_error": 0.0044124912
+  }
+ },
+ "direction.role": {
+  "inRelation celebrity": {
+   "accuracy": 0.3060373582,
+   "std_error": 0.0059519692
+  },
+  "inRelation relative": {
+   "accuracy": 0.463975984,
+   "std_error": 0.0064408811
+  },
+  "outRelation celebrity": {
+   "accuracy": 0.4216144096,
+   "std_error": 0.0063778142
+  },
+  "outRelation relative": {
+   "accuracy": 0.3212141428,
+   "std_error": 0.0060307195
+  }
+ },
+ "direction.grammar": {
+  "inRelation possessionOSR": {
+   "accuracy": 0.4026017345,
+   "std_error": 0.008958317
+  },
+  "inRelation possessionSRO": {
+   "accuracy": 0.3932621748,
+   "std_error": 0.0089227403
+  },
+  "inRelation prepositionORS": {
+   "accuracy": 0.3712474983,
+   "std_error": 0.0088252753
+  },
+  "inRelation prepositionRSO": {
+   "accuracy": 0.3729152769,
+   "std_error": 0.0088333375
+  },
+  "outRelation possessionOSR": {
+   "accuracy": 0.3552368245,
+   "std_error": 0.0087420992
+  },
+  "outRelation possessionSRO": {
+   "accuracy": 0.3368912608,
+   "std_error": 0.0086336388
+  },
+  "outRelation prepositionORS": {
+   "accuracy": 0.4429619746,
+   "std_error": 0.0090736552
+  },
+  "outRelation prepositionRSO": {
+   "accuracy": 0.3505670447,
+   "std_error": 0.0087158417
+  }
+ },
+ "direction.grammar.role": {
+  "inRelation possessionOSR celebrity": {
+   "accuracy": 0.3388925951,
+   "std_error": 0.0122295688
+  },
+  "inRelation possessionOSR relative": {
+   "accuracy": 0.4663108739,
+   "std_error": 0.0128892024
+  },
+  "inRelation possessionSRO celebrity": {
+   "accuracy": 0.3135423616,
+   "std_error": 0.0119866846
+  },
+  "inRelation possessionSRO relative": {
+   "accuracy": 0.472981988,
+   "std_error": 0.0128996855
+  },
+  "inRelation prepositionORS celebrity": {
+   "accuracy": 0.2915276851,
+   "std_error": 0.0117420909
+  },
+  "inRelation prepositionORS relative": {
+   "accuracy": 0.4509673115,
+   "std_error": 0.0128562919
+  },
+  "inRelation prepositionRSO celebrity": {
+   "accuracy": 0.2801867912,
+   "std_error": 0.0116032013
+  },
+  "inRelation prepositionRSO relative": {
+   "accuracy": 0.4656437625,
+   "std_error": 0.0128880268
+  },
+  "outRelation possessionOSR celebrity": {
+   "accuracy": 0.4142761841,
+   "std_error": 0.0127272777
+  },
+  "outRelation possessionOSR relative": {
+   "accuracy": 0.296197465,
+   "std_error": 0.0117966902
+  },
+  "outRelation possessionSRO celebrity": {
+   "accuracy": 0.4416277518,
+   "std_error": 0.0128302224
+  },
+  "outRelation possessionSRO relative": {
+   "accuracy": 0.2321547698,
+   "std_error": 0.0109086183
+  },
+  "outRelation prepositionORS celebrity": {
+   "accuracy": 0.4122748499,
+   "std_error": 0.0127181708
+  },
+  "outRelation prepositionORS relative": {
+   "accuracy": 0.4736490994,
+   "std_error": 0.0129006067
+  },
+  "outRelation prepositionRSO celebrity": {
+   "accuracy": 0.4182788526,
+   "std_error": 0.0127448425
+  },
+  "outRelation prepositionRSO relative": {
+   "accuracy": 0.2828552368,
+   "std_error": 0.0116366942
+  }
+ },
+ "grammar": {
+  "possessionOSR": {
+   "accuracy": 0.3789192795,
+   "std_error": 0.0062654574
+  },
+  "possessionSRO": {
+   "accuracy": 0.3650767178,
+   "std_error": 0.0062181057
+  },
+  "prepositionORS": {
+   "accuracy": 0.4071047365,
+   "std_error": 0.0063452315
+  },
+  "prepositionRSO": {
+   "accuracy": 0.3617411608,
+   "std_error": 0.0062058716
+  }
+ },
+ "grammar.role": {
+  "possessionOSR celebrity": {
+   "accuracy": 0.3765843896,
+   "std_error": 0.0088506796
+  },
+  "possessionOSR relative": {
+   "accuracy": 0.3812541694,
+   "std_error": 0.0088719702
+  },
+  "possessionSRO celebrity": {
+   "accuracy": 0.3775850567,
+   "std_error": 0.0088553154
+  },
+  "possessionSRO relative": {
+   "accuracy": 0.3525683789,
+   "std_error": 0.0087272067
+  },
+  "prepositionORS celebrity": {
+   "accuracy": 0.3519012675,
+   "std_error": 0.008723437
+  },
+  "prepositionORS relative": {
+   "accuracy": 0.4623082055,
+   "std_error": 0.0091072893
+  },
+  "prepositionRSO celebrity": {
+   "accuracy": 0.3492328219,
+   "std_error": 0.0087081715
+  },
+  "prepositionRSO relative": {
+   "accuracy": 0.3742494997,
+   "std_error": 0.0088397065
+  }
+ },
+ "ethnicity": {
+  "Asian/Pacific Islander": {
+   "accuracy": 0.4015625,
+   "std_error": 0.0193925779
+  },
+  "Black or African American": {
+   "accuracy": 0.4113372093,
+   "std_error": 0.0108338465
+  },
+  "Hispanic or Latino": {
+   "accuracy": 0.3785211268,
+   "std_error": 0.0143966125
+  },
+  "Multiracial": {
+   "accuracy": 0.3541666667,
+   "std_error": 0.0261301358
+  },
+  "North African/Middle Eastern": {
+   "accuracy": 0.4927884615,
+   "std_error": 0.0245414817
+  },
+  "White Alone": {
+   "accuracy": 0.3718543729,
+   "std_error": 0.0034706955
+  }
+ },
+ "ethnicity.role": {
+  "Asian/Pacific Islander celebrity": {
+   "accuracy": 0.496875,
+   "std_error": 0.0279940788
+  },
+  "Asian/Pacific Islander relative": {
+   "accuracy": 0.30625,
+   "std_error": 0.0258073971
+  },
+  "Black or African American celebrity": {
+   "accuracy": 0.3507751938,
+   "std_error": 0.0148621848
+  },
+  "Black or African American relative": {
+   "accuracy": 0.4718992248,
+   "std_error": 0.0155472543
+  },
+  "Hispanic or Latino celebrity": {
+   "accuracy": 0.3098591549,
+   "std_error": 0.0194204595
+  },
+  "Hispanic or Latino relative": {
+   "accuracy": 0.4471830986,
+   "std_error": 0.0208805444
+  },
+  "Multiracial celebrity": {
+   "accuracy": 0.0833333333,
+   "std_error": 0.0213873443
+  },
+  "Multiracial relative": {
+   "accuracy": 0.625,
+   "std_error": 0.0374625562
+  },
+  "North African/Middle Eastern celebrity": {
+   "accuracy": 0.5048076923,
+   "std_error": 0.0347507958
+  },
+  "North African/Middle Eastern relative": {
+   "accuracy": 0.4807692308,
+   "std_error": 0.0347266884
+  },
+  "White Alone celebrity": {
+   "accuracy": 0.3658209571,
+   "std_error": 0.0048917734
+  },
+  "White Alone relative": {
+   "accuracy": 0.3778877888,
+   "std_error": 0.0049242703
+  }
+ }
+}

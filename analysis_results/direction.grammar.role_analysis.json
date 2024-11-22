@@ -1,0 +1,16 @@
+{"direction.grammar.role":"inRelation possessionOSR celebrity","accuracy":0.3388925951,"std_error":0.0122295688}
+{"direction.grammar.role":"inRelation possessionOSR relative","accuracy":0.4663108739,"std_error":0.0128892024}
+{"direction.grammar.role":"inRelation possessionSRO celebrity","accuracy":0.3135423616,"std_error":0.0119866846}
+{"direction.grammar.role":"inRelation possessionSRO relative","accuracy":0.472981988,"std_error":0.0128996855}
+{"direction.grammar.role":"inRelation prepositionORS celebrity","accuracy":0.2915276851,"std_error":0.0117420909}
+{"direction.grammar.role":"inRelation prepositionORS relative","accuracy":0.4509673115,"std_error":0.0128562919}
+{"direction.grammar.role":"inRelation prepositionRSO celebrity","accuracy":0.2801867912,"std_error":0.0116032013}
+{"direction.grammar.role":"inRelation prepositionRSO relative","accuracy":0.4656437625,"std_error":0.0128880268}
+{"direction.grammar.role":"outRelation possessionOSR celebrity","accuracy":0.4142761841,"std_error":0.0127272777}
+{"direction.grammar.role":"outRelation possessionOSR relative","accuracy":0.296197465,"std_error":0.0117966902}
+{"direction.grammar.role":"outRelation possessionSRO celebrity","accuracy":0.4416277518,"std_error":0.0128302224}
+{"direction.grammar.role":"outRelation possessionSRO relative","accuracy":0.2321547698,"std_error":0.0109086183}
+{"direction.grammar.role":"outRelation prepositionORS celebrity","accuracy":0.4122748499,"std_error":0.0127181708}
+{"direction.grammar.role":"outRelation prepositionORS relative","accuracy":0.4736490994,"std_error":0.0129006067}
+{"direction.grammar.role":"outRelation prepositionRSO celebrity","accuracy":0.4182788526,"std_error":0.0127448425}
+{"direction.grammar.role":"outRelation prepositionRSO relative","accuracy":0.2828552368,"std_error":0.0116366942}

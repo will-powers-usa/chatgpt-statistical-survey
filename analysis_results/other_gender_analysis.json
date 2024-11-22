@@ -1,0 +1,7 @@
+{"other_gender":"agender","accuracy":0.0,"std_error":0.0}
+{"other_gender":"female","accuracy":0.4125117592,"std_error":0.0053386527}
+{"other_gender":"genderfluid","accuracy":0.0,"std_error":0.0}
+{"other_gender":"male","accuracy":0.3598445596,"std_error":0.0038626967}
+{"other_gender":"non-binary","accuracy":0.0,"std_error":0.0}
+{"other_gender":"trans man","accuracy":0.5,"std_error":0.1889822365}
+{"other_gender":"trans woman","accuracy":0.375,"std_error":0.1829812637}

@@ -1,0 +1,186 @@
+Analysis by industry:
+industry	accuracy	std_error
+Business/Finance	0.361250	0.016994
+Dramatic Arts	0.387177	0.004751
+Government/Politics	0.340789	0.008598
+Literary Arts	0.393955	0.011062
+Musical Arts	0.382943	0.007029
+News/Journalism	0.297619	0.024980
+Religion	0.229167	0.043122
+Science/Technology/Medicince	0.453125	0.036019
+Social Media	0.250000	0.077771
+Sports	0.383333	0.011866
+Visual Arts	0.382143	0.020552
+
+
+Analysis by role:
+role	accuracy	std_error
+celebrity	0.363826	0.004393
+relative	0.392595	0.004459
+
+
+Analysis by industry.role:
+industry.role	accuracy	std_error
+Business/Finance celebrity	0.470000	0.024986
+Business/Finance relative	0.252500	0.021750
+Dramatic Arts celebrity	0.332382	0.006498
+Dramatic Arts relative	0.441971	0.006851
+Government/Politics celebrity	0.378289	0.012443
+Government/Politics relative	0.303289	0.011794
+Literary Arts celebrity	0.350410	0.015279
+Literary Arts relative	0.437500	0.015887
+Musical Arts celebrity	0.405100	0.010040
+Musical Arts relative	0.360786	0.009821
+News/Journalism celebrity	0.363095	0.037213
+News/Journalism relative	0.232143	0.032671
+Religion celebrity	0.125000	0.048240
+Religion relative	0.333333	0.068761
+Science/Technology/Medicince celebrity	0.385417	0.049934
+Science/Technology/Medicince relative	0.520833	0.051254
+Social Media celebrity	0.437500	0.128087
+Social Media relative	0.062500	0.062500
+Sports celebrity	0.375000	0.016714
+Sports relative	0.391667	0.016852
+Visual Arts celebrity	0.414286	0.029491
+Visual Arts relative	0.350000	0.028555
+
+
+Analysis by gender:
+gender	accuracy	std_error
+agender	0.750000	0.163663
+female	0.328669	0.005094
+genderfluid	0.875000	0.125000
+male	0.404793	0.003950
+non-binary  1.000000	0.000000
+trans man	0.000000	0.000000
+trans woman	0.625000	0.182981
+
+
+Analysis by gender.role:
+gender.role	accuracy	std_error
+agender relative	0.750000	0.163663
+female celebrity	0.248342	0.007868
+female relative	0.372813	0.006528
+genderfluid celebrity	0.875000	0.125000
+male celebrity	0.401674	0.005179
+male relative	0.409105	0.006108
+non-binary celebrity  1.000000	0.000000
+trans man relative	0.000000	0.000000
+trans woman relative	0.625000	0.182981
+
+
+Analysis by other_gender:
+other_gender	accuracy	std_error
+agender	0.000000	0.000000
+female	0.412512	0.005339
+genderfluid	0.000000	0.000000
+male	0.359845	0.003863
+non-binary	0.000000	0.000000
+trans man	0.500000	0.188982
+trans woman	0.375000	0.182981
+
+
+Analysis by other_gender.role:
+other_gender.role	accuracy	std_error
+agender celebrity	0.000000	0.000000
+female celebrity	0.384475	0.006567
+female relative	0.463528	0.009082
+genderfluid relative	0.000000	0.000000
+male celebrity	0.346605	0.005912
+male relative	0.369420	0.005099
+non-binary relative	0.000000	0.000000
+trans man celebrity	0.500000	0.188982
+trans woman celebrity	0.375000	0.182981
+
+
+Analysis by direction:
+direction	accuracy	std_error
+inRelation	0.385007	0.004444
+outRelation	0.371414	0.004412
+
+
+Analysis by direction.role:
+direction.role	accuracy	std_error
+inRelation celebrity	0.306037	0.005952
+inRelation relative	0.463976	0.006441
+outRelation celebrity	0.421614	0.006378
+outRelation relative	0.321214	0.006031
+
+
+Analysis by direction.grammar:
+direction.grammar	accuracy	std_error
+inRelation possessionOSR	0.402602	0.008958
+inRelation possessionSRO	0.393262	0.008923
+inRelation prepositionORS	0.371247	0.008825
+inRelation prepositionRSO	0.372915	0.008833
+outRelation possessionOSR	0.355237	0.008742
+outRelation possessionSRO	0.336891	0.008634
+outRelation prepositionORS	0.442962	0.009074
+outRelation prepositionRSO	0.350567	0.008716
+
+
+Analysis by direction.grammar.role:
+direction.grammar.role	accuracy	std_error
+inRelation possessionOSR celebrity	0.338893	0.012230
+inRelation possessionOSR relative	0.466311	0.012889
+inRelation possessionSRO celebrity	0.313542	0.011987
+inRelation possessionSRO relative	0.472982	0.012900
+inRelation prepositionORS celebrity	0.291528	0.011742
+inRelation prepositionORS relative	0.450967	0.012856
+inRelation prepositionRSO celebrity	0.280187	0.011603
+inRelation prepositionRSO relative	0.465644	0.012888
+outRelation possessionOSR celebrity	0.414276	0.012727
+outRelation possessionOSR relative	0.296197	0.011797
+outRelation possessionSRO celebrity	0.441628	0.012830
+outRelation possessionSRO relative	0.232155	0.010909
+outRelation prepositionORS celebrity	0.412275	0.012718
+outRelation prepositionORS relative	0.473649	0.012901
+outRelation prepositionRSO celebrity	0.418279	0.012745
+outRelation prepositionRSO relative	0.282855	0.011637
+
+
+Analysis by grammar:
+grammar	accuracy	std_error
+possessionOSR	0.378919	0.006265
+possessionSRO	0.365077	0.006218
+prepositionORS	0.407105	0.006345
+prepositionRSO	0.361741	0.006206
+
+
+Analysis by grammar.role:
+grammar.role	accuracy	std_error
+possessionOSR celebrity	0.376584	0.008851
+possessionOSR relative	0.381254	0.008872
+possessionSRO celebrity	0.377585	0.008855
+possessionSRO relative	0.352568	0.008727
+prepositionORS celebrity	0.351901	0.008723
+prepositionORS relative	0.462308	0.009107
+prepositionRSO celebrity	0.349233	0.008708
+prepositionRSO relative	0.374249	0.008840
+
+
+Analysis by ethnicity:
+ethnicity	accuracy	std_error
+Asian/Pacific Islander	0.401562	0.019393
+Black or African American	0.411337	0.010834
+Hispanic or Latino	0.378521	0.014397
+Multiracial	0.354167	0.026130
+North African/Middle Eastern	0.492788	0.024541
+White Alone	0.371854	0.003471
+
+
+Analysis by ethnicity.role:
+ethnicity.role	accuracy	std_error
+Asian/Pacific Islander celebrity	0.496875	0.027994
+Asian/Pacific Islander relative	0.306250	0.025807
+Black or African American celebrity	0.350775	0.014862
+Black or African American relative	0.471899	0.015547
+Hispanic or Latino celebrity	0.309859	0.019420
+Hispanic or Latino relative	0.447183	0.020881
+Multiracial celebrity	0.083333	0.021387
+Multiracial relative	0.625000	0.037463
+North African/Middle Eastern celebrity	0.504808	0.034751
+North African/Middle Eastern relative	0.480769	0.034727
+White Alone celebrity	0.365821	0.004892
+White Alone relative	0.377888	0.004924
+

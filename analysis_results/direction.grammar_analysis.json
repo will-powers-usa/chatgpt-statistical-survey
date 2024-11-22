@@ -1,0 +1,8 @@
+{"direction.grammar":"inRelation possessionOSR","accuracy":0.4026017345,"std_error":0.008958317}
+{"direction.grammar":"inRelation possessionSRO","accuracy":0.3932621748,"std_error":0.0089227403}
+{"direction.grammar":"inRelation prepositionORS","accuracy":0.3712474983,"std_error":0.0088252753}
+{"direction.grammar":"inRelation prepositionRSO","accuracy":0.3729152769,"std_error":0.0088333375}
+{"direction.grammar":"outRelation possessionOSR","accuracy":0.3552368245,"std_error":0.0087420992}
+{"direction.grammar":"outRelation possessionSRO","accuracy":0.3368912608,"std_error":0.0086336388}
+{"direction.grammar":"outRelation prepositionORS","accuracy":0.4429619746,"std_error":0.0090736552}
+{"direction.grammar":"outRelation prepositionRSO","accuracy":0.3505670447,"std_error":0.0087158417}

@@ -1,0 +1,4 @@
+{"direction.role":"inRelation celebrity","accuracy":0.3060373582,"std_error":0.0059519692}
+{"direction.role":"inRelation relative","accuracy":0.463975984,"std_error":0.0064408811}
+{"direction.role":"outRelation celebrity","accuracy":0.4216144096,"std_error":0.0063778142}
+{"direction.role":"outRelation relative","accuracy":0.3212141428,"std_error":0.0060307195}

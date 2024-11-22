@@ -1,0 +1,4 @@
+{"grammar":"possessionOSR","accuracy":0.3789192795,"std_error":0.0062654574}
+{"grammar":"possessionSRO","accuracy":0.3650767178,"std_error":0.0062181057}
+{"grammar":"prepositionORS","accuracy":0.4071047365,"std_error":0.0063452315}
+{"grammar":"prepositionRSO","accuracy":0.3617411608,"std_error":0.0062058716}

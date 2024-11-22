@@ -1,0 +1,9 @@
+{"other_gender.role":"agender celebrity","accuracy":0.0,"std_error":0.0}
+{"other_gender.role":"female celebrity","accuracy":0.3844752187,"std_error":0.0065673395}
+{"other_gender.role":"female relative","accuracy":0.4635278515,"std_error":0.0090817146}
+{"other_gender.role":"genderfluid relative","accuracy":0.0,"std_error":0.0}
+{"other_gender.role":"male celebrity","accuracy":0.3466049383,"std_error":0.0059122298}
+{"other_gender.role":"male relative","accuracy":0.3694196429,"std_error":0.0050991812}
+{"other_gender.role":"non-binary relative","accuracy":0.0,"std_error":0.0}
+{"other_gender.role":"trans man celebrity","accuracy":0.5,"std_error":0.1889822365}
+{"other_gender.role":"trans woman celebrity","accuracy":0.375,"std_error":0.1829812637}

@@ -1,0 +1,8 @@
+{"grammar.role":"possessionOSR celebrity","accuracy":0.3765843896,"std_error":0.0088506796}
+{"grammar.role":"possessionOSR relative","accuracy":0.3812541694,"std_error":0.0088719702}
+{"grammar.role":"possessionSRO celebrity","accuracy":0.3775850567,"std_error":0.0088553154}
+{"grammar.role":"possessionSRO relative","accuracy":0.3525683789,"std_error":0.0087272067}
+{"grammar.role":"prepositionORS celebrity","accuracy":0.3519012675,"std_error":0.008723437}
+{"grammar.role":"prepositionORS relative","accuracy":0.4623082055,"std_error":0.0091072893}
+{"grammar.role":"prepositionRSO celebrity","accuracy":0.3492328219,"std_error":0.0087081715}
+{"grammar.role":"prepositionRSO relative","accuracy":0.3742494997,"std_error":0.0088397065}

@@ -1,0 +1,11 @@
+{"industry":"Business\/Finance","accuracy":0.36125,"std_error":0.0169940149}
+{"industry":"Dramatic Arts","accuracy":0.3871765601,"std_error":0.0047511659}
+{"industry":"Government\/Politics","accuracy":0.3407894737,"std_error":0.0085978488}
+{"industry":"Literary Arts","accuracy":0.393954918,"std_error":0.0110623423}
+{"industry":"Musical Arts","accuracy":0.3829431438,"std_error":0.0070287735}
+{"industry":"News\/Journalism","accuracy":0.2976190476,"std_error":0.0249801085}
+{"industry":"Religion","accuracy":0.2291666667,"std_error":0.0431215303}
+{"industry":"Science\/Technology\/Medicince","accuracy":0.453125,"std_error":0.0360193908}
+{"industry":"Social Media","accuracy":0.25,"std_error":0.0777713771}
+{"industry":"Sports","accuracy":0.3833333333,"std_error":0.0118655584}
+{"industry":"Visual Arts","accuracy":0.3821428571,"std_error":0.020551854}

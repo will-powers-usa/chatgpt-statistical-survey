@@ -1,0 +1,22 @@
+{"industry.role":"Business\/Finance celebrity","accuracy":0.47,"std_error":0.0249862117}
+{"industry.role":"Business\/Finance relative","accuracy":0.2525,"std_error":0.0217495283}
+{"industry.role":"Dramatic Arts celebrity","accuracy":0.3323820396,"std_error":0.0064982501}
+{"industry.role":"Dramatic Arts relative","accuracy":0.4419710807,"std_error":0.0068507626}
+{"industry.role":"Government\/Politics celebrity","accuracy":0.3782894737,"std_error":0.0124430645}
+{"industry.role":"Government\/Politics relative","accuracy":0.3032894737,"std_error":0.0117944031}
+{"industry.role":"Literary Arts celebrity","accuracy":0.3504098361,"std_error":0.0152793738}
+{"industry.role":"Literary Arts relative","accuracy":0.4375,"std_error":0.0158872227}
+{"industry.role":"Musical Arts celebrity","accuracy":0.4051003344,"std_error":0.0100395298}
+{"industry.role":"Musical Arts relative","accuracy":0.3607859532,"std_error":0.0098210558}
+{"industry.role":"News\/Journalism celebrity","accuracy":0.3630952381,"std_error":0.0372125378}
+{"industry.role":"News\/Journalism relative","accuracy":0.2321428571,"std_error":0.0326707904}
+{"industry.role":"Religion celebrity","accuracy":0.125,"std_error":0.0482403116}
+{"industry.role":"Religion relative","accuracy":0.3333333333,"std_error":0.0687614164}
+{"industry.role":"Science\/Technology\/Medicince celebrity","accuracy":0.3854166667,"std_error":0.0499337097}
+{"industry.role":"Science\/Technology\/Medicince relative","accuracy":0.5208333333,"std_error":0.0512543679}
+{"industry.role":"Social Media celebrity","accuracy":0.4375,"std_error":0.1280868846}
+{"industry.role":"Social Media relative","accuracy":0.0625,"std_error":0.0625}
+{"industry.role":"Sports celebrity","accuracy":0.375,"std_error":0.0167137793}
+{"industry.role":"Sports relative","accuracy":0.3916666667,"std_error":0.0168518713}
+{"industry.role":"Visual Arts celebrity","accuracy":0.4142857143,"std_error":0.0294910874}
+{"industry.role":"Visual Arts relative","accuracy":0.35,"std_error":0.0285554231}

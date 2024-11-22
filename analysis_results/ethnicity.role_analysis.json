@@ -1,0 +1,12 @@
+{"ethnicity.role":"Asian\/Pacific Islander celebrity","accuracy":0.496875,"std_error":0.0279940788}
+{"ethnicity.role":"Asian\/Pacific Islander relative","accuracy":0.30625,"std_error":0.0258073971}
+{"ethnicity.role":"Black or African American celebrity","accuracy":0.3507751938,"std_error":0.0148621848}
+{"ethnicity.role":"Black or African American relative","accuracy":0.4718992248,"std_error":0.0155472543}
+{"ethnicity.role":"Hispanic or Latino celebrity","accuracy":0.3098591549,"std_error":0.0194204595}
+{"ethnicity.role":"Hispanic or Latino relative","accuracy":0.4471830986,"std_error":0.0208805444}
+{"ethnicity.role":"Multiracial celebrity","accuracy":0.0833333333,"std_error":0.0213873443}
+{"ethnicity.role":"Multiracial relative","accuracy":0.625,"std_error":0.0374625562}
+{"ethnicity.role":"North African\/Middle Eastern celebrity","accuracy":0.5048076923,"std_error":0.0347507958}
+{"ethnicity.role":"North African\/Middle Eastern relative","accuracy":0.4807692308,"std_error":0.0347266884}
+{"ethnicity.role":"White Alone celebrity","accuracy":0.3658209571,"std_error":0.0048917734}
+{"ethnicity.role":"White Alone relative","accuracy":0.3778877888,"std_error":0.0049242703}
